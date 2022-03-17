@@ -2,6 +2,8 @@
 
 Olá! Aqui você encontra demonstrações de alguns dos projetos que já executei ou participei, seja profissionalmente ou como estudo.
 
+[Veja aqui alguns trabalhos de UX/UI/Design.](https://www.behance.net/herrberna)
+
 ## Landing pages:
 
 ### [Escritório de Advocacia](https://herr-berna.github.io/valerio-adv) (Nov. 2021)
